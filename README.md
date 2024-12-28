@@ -1,0 +1,3 @@
+Add pause and reset functionality
+Implement sound alerts when the countdown finishes
+Allow users to save and load preset timers...
